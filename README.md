@@ -32,6 +32,9 @@ No activity tracked
 ## 📝 Latest Blog Posts
 <!-- This section can be automatically updated using GitHub Actions to fetch from Medium or your personal blog -->
 <!-- BLOG-POST-LIST:START -->
+- [Ahum 1 — Synchronizing Lyrics with Audio](https://medium.com/@damianr13/ahum-1-synchronizing-lyrics-with-audio-54f11dffa1f2?source=rss-498f3d84be93------2)
+- [Dealing with the technical knowledge FOMO](https://medium.com/@damianr13/dealing-with-the-technical-knowledge-fomo-a8923557c659?source=rss-498f3d84be93------2)
+- [The path towards a Google Cloud Certification](https://medium.com/@damianr13/the-path-towards-a-google-cloud-certification-220ff61a7741?source=rss-498f3d84be93------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
