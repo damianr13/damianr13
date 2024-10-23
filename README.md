@@ -22,6 +22,11 @@ I am a data scientist with a strong background in software engineering. I am pas
 ## 📊 Weekly Coding Stats
 <!-- This section can be automatically updated using WakaTime and GitHub Actions -->
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 📝 Latest Blog Posts
