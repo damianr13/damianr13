@@ -5,7 +5,7 @@ I am a data scientist with a strong background in software engineering. I am pas
 
 ## 🔭 Current Projects
 <!-- This section can be automatically updated using GitHub Actions -->
-![Recent GitHub Activity](https://github-readme-stats.vercel.app/api?username=damianr13&show_icons=true&theme=radical)
+![Recent GitHub Activity](https://github-readme-stats-damianr13s-projects.vercel.app/api?username=damianr13&show_icons=true&theme=radical)
 
 ## 🌱 I'm currently learning
 <!-- You can manually update this section or use GitHub Actions to fetch from your pinned repositories -->
