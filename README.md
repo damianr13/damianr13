@@ -24,11 +24,11 @@ I am a data scientist with a strong background in software engineering. I am pas
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                 15 hrs 37 mins  ███████████████▒░░░░░░░░░   61.40 %
-Python               3 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-TypeScript           2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-YAML                 1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-JSON                 1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Dart                 13 hrs 4 mins   ██████████████░░░░░░░░░░░   55.85 %
+Python               3 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+TypeScript           2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+YAML                 1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+JSON                 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
