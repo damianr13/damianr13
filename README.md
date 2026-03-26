@@ -24,7 +24,9 @@ I am a data scientist with a strong background in software engineering. I am pas
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              2 hrs 42 mins         ████████████████████████▒   97.62 %
+Python            3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
